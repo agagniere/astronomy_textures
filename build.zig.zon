@@ -1,0 +1,12 @@
+.{
+    .name = .astronomy_textures,
+    .version = "0.0.1",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "README.md",
+        "LICENSE",
+        "milkyway",
+    },
+    .fingerprint = 0x75e933557be73296,
+}
